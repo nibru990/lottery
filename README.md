@@ -1,1 +1,3 @@
-# lottery
+# Lottery
+
+A lottery solidity project
